@@ -1,0 +1,2 @@
+# AZRO-Virtual-Assistant-with-DIsease-Detection
+A Virtual Assistant that uses Disease Detection to solve the medical trauma that requires immediate attention for routine assistance provided by humans in hospital for Efficiently Diagnose, Better Management and Effective Communication. Not only it is time-efficient, but a personalized track of records is maintained and human error is eliminated to ensure smooth service for the patient.
